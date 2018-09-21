@@ -1,6 +1,4 @@
 README File
 
------------------
+This is all about learing about git and command promt
 
-
-This is a read me file for my testing html and css folder
