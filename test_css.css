@@ -1,0 +1,20 @@
+a{
+    text-decoration: none; 
+}
+
+#Background{
+    background-color: greenyellow;
+    color: red;
+    width: 1400px;
+    margin-right: auto;
+    margin-left: auto;   
+}
+
+#Description{
+    text-align: center;
+}
+
+#Header{
+    color: blue;
+    text-align: center;
+}
