@@ -3,8 +3,8 @@ a{
 }
 
 #Background{
-    background-color: greenyellow;
-    color: red;
+    background-color: rgb(68, 71, 62);
+    color: rgb(0, 0, 0);
     width: 1400px;
     margin-right: auto;
     margin-left: auto;   
@@ -15,6 +15,6 @@ a{
 }
 
 #Header{
-    color: blue;
+    color: rgb(68, 68, 223);
     text-align: center;
 }
