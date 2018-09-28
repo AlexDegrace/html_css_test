@@ -2,10 +2,15 @@ a{
     text-decoration: none; 
 }
 
+#Header{
+    font-size: 40px;
+}
+
 #Background{
-    background-color: rgb(68, 71, 62);
+    background-color: E8BF71;
     color: rgb(0, 0, 0);
     width: 1400px;
+    height: 10000px;
     margin-right: auto;
     margin-left: auto;   
 }
@@ -17,4 +22,44 @@ a{
 #Header{
     color: rgb(68, 68, 223);
     text-align: center;
+    margin-top: 50px;
 }
+
+#Buttons{
+    width: 1400px;
+    height: 150px;
+    background-color: FFF488; 
+}
+
+#Button1{
+    color: rgb(111, 124, 145);
+    background-color: black;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin-left:125px;
+    margin-top: 25px;
+    font-size: 75px;
+}
+
+#Button2{
+    color: rgb(111, 124, 145);
+    background-color: black;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin-left: 125px;
+    font-size: 75px
+    
+}
+
+#Button3{
+    color: rgb(111, 124, 145);
+    background-color: black;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin-left: 125px;
+    font-size: 75px
+}
+
