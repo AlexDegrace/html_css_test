@@ -2,6 +2,10 @@ a{
     text-decoration: none; 
 }
 
+h1{
+    background-color: #ffffff
+}
+
 #Header{
     font-size: 40px;
 }
@@ -23,6 +27,7 @@ a{
     color: rgb(68, 68, 223);
     text-align: center;
     margin-top: 50px;
+    border-width: 20px,5px,20px,1px;
 }
 
 #Buttons{
